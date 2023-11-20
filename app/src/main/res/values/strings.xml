@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Homework07</string>
+
+    <string name="name">Name: </string>
+    <string name="person_name">Héctor García-Molina</string>
+    <string name="born">Born: </string>
+    <string name="birthdate">November 15th, 1954</string>
+    <string name="birthplace">Monterrey, Mexico </string>
+    <string name="age">Age: </string>
+    <string name="years_old">64–65 years old (deceased)</string>
+    <string name="location">Location: </string>
+    <string name="current_location">Stanford</string>
+    <string name="nationality">Nationality: </string>
+    <string name="place_of_nationality">Mexico</string>
+    <string name="bio">Bio: </string>
+    <string name="biography">Biography</string>
+    <string name="more_info">More Info</string>
+    <string name="donate">Donate</string>
+    <string name="bio_text">Héctor García-Molina was a Mexican-American computer scientist, as well as
+    a professor of computer science and electrical engineering at Stanford University. He is most known for his
+    work on RAID technology, and his extensive catalog of research. Over his academic career, he advised
+    57 PhD students, authored or co-authored nine books, and more than 400 journal articles, including
+    refereed conference papers. Notably, he advised Sergey Brin, the co-founder of Google. In his spare
+    time, he taught introductory photography classes at Stanford, as he was also a professional photographer.
+    </string>
+    <string name="impact_on_stanford">Impact on Stanford</string>
+    <string name="impact_on_stanford_body">Many in Stanford\'s staff claimed that García-Molina was a
+    kind, welcoming man devoted to his students. He was known to consistently share credit to those
+    he worked with, as well as advising many students at Stanford. In his spare time, he would
+    teach CS45N, the introductory photography course at Stanford, to freshmen. He would often loan
+    his cameras to students interested in photography. He also was the official Stanford sports
+    photographer, snapping pictures of his students giving it their all on the field.</string>
+    <string name="education">Education</string>
+
+    <string name="education_body">García-Molina studied at Stanford in 1975,
+    studying both computer science and electrical engineering. A year later, he would
+    begin studying for his PhD under the advisory of Gio Wiederhold. After earning his
+    PhD, in 1979, García-Molina would join the faculty of Princeton, developing
+    the foundations for a technology called the Redundant Array of Independent
+    Disks, or RAID for short. Afterward, in 1992, he joined the Stanford faculty.</string>
+    <string name="awards">Awards and Achievements</string>
+
+    <string name="awards_body">García-Molina has won several awards for his contributions
+    to computer science. A significant achievement of his was being invited to join
+    the board of directors at the Oracle Corporation, which is a position he held until
+    he passed. He also worked with Terry Winograd to launch the Stanford Digital Libraries
+    Project, which developed ways to store and filter many types of information in traditional
+    libraries. In 2007, he won the ICDE Influential Paper Award for his paper "Disk Striping",
+    which would help in the development on RAID storage. He also served at the U.S. President\'s
+    Information Technology Advisory Committee from 1997 to 2001.</string>
+
+    <string name="full_name">Full Name: </string>
+    <string name="phone_number">Phone Number: </string>
+    <string name="credit_card">Credit Card #: </string>
+    <string name="cvc">CVC: </string>
+    <string name="donation_amount">Amount: </string>
+    <string name="receipt">Receive receipt: </string>
+
+    <string name="full_name_enter">Please enter your name. </string>
+    <string name="phone_number_enter">Please enter your phone number.</string>
+    <string name="credit_card_enter">Please enter your credit card info.</string>
+    <string name="cvc_enter">Please enter your CVC.</string>
+    <string name="donation_amount_enter">Please enter your donation amount.</string>
+    <string name="switch_text">Click for yes.</string>
+
+
+
+
+
+
+</resources>
